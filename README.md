@@ -1,4 +1,4 @@
-# Bedrock-Homeassistant
+# Weight Watchers Service for Home Assistant
 
 [![Stargazers repo roster for @jdeath/weightwatchers_service](https://git-lister.onrender.com/api/stars/jdeath/weightwatchers_service?limit=30)](https://github.com/jdeath/weightwatchers_service/stargazers)
 
