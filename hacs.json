@@ -1,0 +1,6 @@
+{
+  "name": "weightwatchers_service",
+  "iot_class": "Cloud Push",
+  "render_readme": true,
+  "homeassistant": "2022.12.1"
+}

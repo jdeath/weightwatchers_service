@@ -1,0 +1,21 @@
+
+# Service ID
+set_weight:
+  # Service name as shown in UI
+  name: Set Weight
+  # Description of the service
+  description: Sets your weight in the WeightWatchers App.
+  
+  
+  fields:
+    # Key of the field
+    weight:
+      # Field name as shown in UI
+      name: Weight
+      # Description of the field
+      description: Your Weight in LBS
+      # Whether or not field is required (default = false)
+      required: true
+      # Advanced fields are only shown when the advanced mode is enabled for the user (default = false)
+      example: "100"
+      # The default field value

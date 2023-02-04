@@ -1,0 +1,7 @@
+{
+    "domain": "weightwatchers_service",
+    "name": "Weightwatchers Service",
+    "documentation": "https://github.com/jdeath/weightwatchers_service",
+    "iot_class": "cloud_push",
+    "version": "0.1.0"
+}
